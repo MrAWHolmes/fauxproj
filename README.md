@@ -4,7 +4,7 @@
 
 #My Sql help in ../DOCS
 User : mrh
-PassHint : Middle of osa in elite speak
+PassHint : oB22!show 
 
 # to clone ...
 1. git clone URL
@@ -22,3 +22,10 @@ Omit --global to set the identity only in this repository.
 1. git add .
 2. git commit -m"Comment"
 3. git push
+
+
+# Run .sql files in console
+[run .sql](https://sebhastian.com/mysql-running-sql-file/)
+
+# good tutorial to start with
+[login system tut](https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php)

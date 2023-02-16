@@ -1,0 +1,4 @@
+# ignore /includes folder
+# this file is uploaded to O:/__ACAD_2022_23/__fauxproj/CODE
+includes/*
+
